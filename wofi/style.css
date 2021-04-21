@@ -1,0 +1,32 @@
+* {
+  background: transparent;
+  color: #ffffff;
+}
+
+#window {
+  margin: 15px;
+}
+
+#input {
+  border: 3px solid #a00606;
+  border-radius: 8px;
+  margin: 15px;
+}
+
+#outer-box {
+  margin: 15px;
+  background: rgba(100, 114, 125, 0.6);
+  border-radius: 8px;
+}
+
+#inner-box {
+  margin: 20px;
+}
+
+#entry {
+  border: 2px transparent;
+}
+
+#entry:selected {
+  border: 2px solid #a00606;
+}

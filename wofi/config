@@ -1,0 +1,5 @@
+show=run
+xoffset=650
+yoffset=375
+term=alacritty
+sort_order=alphabetical
